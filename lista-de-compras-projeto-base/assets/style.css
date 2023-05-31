@@ -1,0 +1,80 @@
+html {
+    background-color: black;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+main{
+
+    background-color: #fff;
+    width: 50%;
+    height: 100%;
+    border-radius: 10px;
+    margin-top: 80px;
+}
+section{
+    padding-top: 20px;
+}
+
+h1{
+    color:black;
+    font-size: 25px;
+}
+
+i{
+    color: #ff0095;
+}
+
+.sub_Button{
+    background-color: #ff0095;
+    color: #fff;
+    box-shadow: #fff solid;
+    height: 35px;
+    width: 85px;
+    border-radius: 10px;
+}
+
+body {
+    font-family: 'Montserrat', 'sans-serif', 'Mansalva', cursive;
+}
+
+h2, footer {
+    font-family: 'Mansalva';
+}
+
+button {
+    border: none;
+    margin-top: 15px;
+    left: 50px;
+}
+
+.itens-comprados {
+text-decoration: line-through;
+}
+
+.borda-lista {
+    border-bottom: dotted 2px blue;
+}
+
+input:disabled {
+    border: none;
+    background: none;
+    color: black;
+}
+
+input {
+    border: none;
+    background: none;
+    color: black;
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container-input{
+    padding-top: 25px;
+    display: inline-block;
+    margin-left: 25px;
+}
+.campo-texto{
+    width: 30%;
+}
